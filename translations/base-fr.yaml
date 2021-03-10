@@ -1047,7 +1047,7 @@ demo:
         exportingBase: Exporter une image de toute la base
     settingNotAvailable: Indisponible dans la démo.
 tips:
-    - Le centre n’importe quelle forme, pas seulement la forme actuelle !
+    - Le centre accepte n’importe quelle forme, pas seulement la forme actuelle !
     - Assurez-vous que vos usines soient modulaires, cela paiera !
     - Ne construisez pas trop près du centre, ou ce sera un énorme chaos !
     - Si l’empilement ne fonctionne pas, essayez d’échanger les entrées.
